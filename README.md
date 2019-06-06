@@ -6,16 +6,16 @@
 
 # When you input node liri.js movie-this
 
-<img src=".images/moviethis.png">
+<img src="./images/moviethis.png">
 
 # When you input node liri.js spotify-this-song "r u mine"
 
-<img src=".images/arcticmonkeys.png">
+<img src="./images/arcticmonkeys.png">
 
 # When you input node liri.js concert-this "ariana grande"
 
-<img src=".images/ariana.png">
+<img src="./images/ariana.png">
 
 # When you input node liri.js do-what-it-says 
 
-<img src=".images/dowhatitsays.png">
+<img src="./images/dowhatitsays.png">
